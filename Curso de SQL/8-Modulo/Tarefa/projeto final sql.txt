@@ -1,0 +1,3 @@
+Exercicio do projeto final do curso de SQL da EBAc:
+
+https://www.kaggle.com/code/aurliocapingana/an-lise-de-cr-dito
